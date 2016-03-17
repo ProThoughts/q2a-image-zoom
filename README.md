@@ -9,5 +9,5 @@ This is a plugin for **Question2Answer** that has the capability to zoom the ima
 ----------
 Disclaimer
 ----------
-If you have any questions please contact me [](pjkui@qq.com).
+If you have any questions please contact me [pjkui@qq.com].
 
